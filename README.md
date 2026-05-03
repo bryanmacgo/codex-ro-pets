@@ -2,13 +2,13 @@
 
 # Codex RO Pets
 
-Uma coleção de pets customizados para o Codex, inspirados em criaturas e personagens clássicos do universo de Ragnarok Online.
+A collection of custom Codex pets inspired by classic creatures and characters from the Ragnarok Online universe.
 
-Cada pet preserva o visual pixel art original em um atlas compatível com o formato de pets do Codex: `pet.json` + `spritesheet.webp`.
+Each pet preserves the original pixel-art look in an atlas compatible with the Codex pet format: `pet.json` + `spritesheet.webp`.
 
-## Pets incluídos
+## Included Pets
 
-| Pet        | Pasta             |
+| Pet        | Folder            |
 | ---------- | ----------------- |
 | Alice      | `pets/alice`      |
 | Atroce     | `pets/atroce`     |
@@ -24,6 +24,7 @@ Cada pet preserva o visual pixel art original em um atlas compatível com o form
 | Kafra 5    | `pets/kafra-5`    |
 | Kafra 6    | `pets/kafra-6`    |
 | Myst Case  | `pets/myst-case`  |
+| Munak      | `pets/munak`      |
 | Orc Lord   | `pets/orc-lord`   |
 | Peco Peco  | `pets/peco-peco`  |
 | Poring     | `pets/poring`     |
@@ -32,27 +33,27 @@ Cada pet preserva o visual pixel art original em um atlas compatível com o form
 | Spore      | `pets/spore`      |
 | Valkyrie   | `pets/valkyrie`   |
 
-## Instalação
+## Installation
 
-Copie um pet específico para a pasta de pets do Codex:
+Copy a specific pet into your Codex pets folder:
 
 ```sh
 mkdir -p "$HOME/.codex/pets"
 cp -R pets/poring "$HOME/.codex/pets/"
 ```
 
-Ou instale todos:
+Or install all pets:
 
 ```sh
 mkdir -p "$HOME/.codex/pets"
 cp -R pets/* "$HOME/.codex/pets/"
 ```
 
-Depois, reinicie ou recarregue o Codex para que os pets apareçam na seleção.
+Then restart or reload Codex so the pets appear in the selector.
 
-## Estrutura
+## Structure
 
-Cada diretório em `pets/` segue este formato:
+Each directory in `pets/` follows this format:
 
 ```text
 pets/<pet>/
@@ -60,15 +61,15 @@ pets/<pet>/
 └── spritesheet.webp
 ```
 
-O `spritesheet.webp` usa o atlas padrão dos pets do Codex:
+The `spritesheet.webp` file uses the standard Codex pet atlas:
 
-| Propriedade   | Valor                    |
+| Property      | Value                    |
 | ------------- | ------------------------ |
-| Tamanho total | `1536x1872`              |
-| Grade         | `8` colunas x `9` linhas |
-| Célula        | `192x208`                |
-| Fundo         | Transparente             |
+| Total size    | `1536x1872`              |
+| Grid          | `8` columns x `9` rows   |
+| Cell          | `192x208`                |
+| Background    | Transparent              |
 
-## Observações
+## Notes
 
-Este é um projeto feito por fã e não oficial. Ragnarok Online e marcas relacionadas pertencem aos seus respectivos titulares.
+This is an unofficial fan-made project. Ragnarok Online and related trademarks belong to their respective owners.
