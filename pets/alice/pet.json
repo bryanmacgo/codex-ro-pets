@@ -1,0 +1,6 @@
+{
+  "id": "alice",
+  "displayName": "Alice",
+  "description": "A pet named Alice, preserved from source sprites with selected emotion GIF overlays.",
+  "spritesheetPath": "spritesheet.webp"
+}
