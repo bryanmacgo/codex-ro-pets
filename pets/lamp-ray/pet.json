@@ -1,0 +1,6 @@
+{
+  "id": "lamp-ray",
+  "displayName": "Lamp Ray",
+  "description": "A pet named Lamp Ray, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "leak",
+  "displayName": "Leak",
+  "description": "A pet named Leak, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "zombie-guard",
+  "displayName": "Zombie Guard",
+  "description": "A pet named Zombie Guard, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

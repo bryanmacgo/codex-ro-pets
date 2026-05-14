@@ -1,0 +1,6 @@
+{
+  "id": "bandit",
+  "displayName": "Bandit",
+  "description": "A pet named Bandit, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

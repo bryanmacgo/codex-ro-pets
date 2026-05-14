@@ -1,0 +1,6 @@
+{
+  "id": "goblin-flail",
+  "displayName": "Goblin (Flail)",
+  "description": "A pet named Goblin (Flail), preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "plasma",
+  "displayName": "Plasma",
+  "description": "A pet named Plasma, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

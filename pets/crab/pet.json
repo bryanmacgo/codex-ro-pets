@@ -1,0 +1,6 @@
+{
+  "id": "crab",
+  "displayName": "Crab",
+  "description": "A pet named Crab, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

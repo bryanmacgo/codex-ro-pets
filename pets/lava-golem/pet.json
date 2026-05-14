@@ -1,0 +1,6 @@
+{
+  "id": "lava-golem",
+  "displayName": "Lava Golem",
+  "description": "A pet named Lava Golem, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

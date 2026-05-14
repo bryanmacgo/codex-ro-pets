@@ -1,0 +1,6 @@
+{
+  "id": "executioner",
+  "displayName": "Executioner",
+  "description": "A pet named Executioner, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

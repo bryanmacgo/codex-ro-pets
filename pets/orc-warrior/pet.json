@@ -1,0 +1,6 @@
+{
+  "id": "orc-warrior",
+  "displayName": "Orc Warrior",
+  "description": "A pet named Orc Warrior, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

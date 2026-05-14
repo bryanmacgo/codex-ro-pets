@@ -1,6 +1,6 @@
 {
   "id": "anubis",
   "displayName": "Anubis",
-  "description": "A pet named Anubis, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "A pet named Anubis, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
   "spritesheetPath": "spritesheet.webp"
 }

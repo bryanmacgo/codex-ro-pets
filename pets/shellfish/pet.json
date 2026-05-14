@@ -1,0 +1,6 @@
+{
+  "id": "shellfish",
+  "displayName": "Shellfish",
+  "description": "A pet named Shellfish, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

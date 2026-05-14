@@ -1,0 +1,6 @@
+{
+  "id": "horn",
+  "displayName": "Horn",
+  "description": "A pet named Horn, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

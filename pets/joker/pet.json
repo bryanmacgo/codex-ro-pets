@@ -1,0 +1,6 @@
+{
+  "id": "joker",
+  "displayName": "Joker",
+  "description": "A pet named Joker, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

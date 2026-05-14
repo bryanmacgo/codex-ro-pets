@@ -1,0 +1,6 @@
+{
+  "id": "plankton",
+  "displayName": "Plankton",
+  "description": "A pet named Plankton, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

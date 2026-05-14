@@ -1,0 +1,6 @@
+{
+  "id": "toucan",
+  "displayName": "Toucan",
+  "description": "A pet named Toucan, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

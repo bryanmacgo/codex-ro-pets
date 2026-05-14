@@ -1,0 +1,6 @@
+{
+  "id": "ghoul",
+  "displayName": "Ghoul",
+  "description": "A pet named Ghoul, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

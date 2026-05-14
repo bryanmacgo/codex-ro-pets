@@ -1,0 +1,6 @@
+{
+  "id": "firelock-soldier",
+  "displayName": "Firelock Soldier",
+  "description": "A pet named Firelock Soldier, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "thief-bug",
+  "displayName": "Thief Bug",
+  "description": "A pet named Thief Bug, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

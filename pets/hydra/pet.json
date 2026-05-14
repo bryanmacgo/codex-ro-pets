@@ -1,0 +1,6 @@
+{
+  "id": "hydra",
+  "displayName": "Hydra",
+  "description": "A pet named Hydra, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

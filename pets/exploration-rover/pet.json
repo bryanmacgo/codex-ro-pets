@@ -1,0 +1,6 @@
+{
+  "id": "exploration-rover",
+  "displayName": "Exploration Rover",
+  "description": "A pet named Exploration Rover, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

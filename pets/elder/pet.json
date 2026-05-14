@@ -1,0 +1,6 @@
+{
+  "id": "elder",
+  "displayName": "Elder",
+  "description": "A pet named Elder, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

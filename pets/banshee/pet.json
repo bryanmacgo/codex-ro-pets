@@ -1,0 +1,6 @@
+{
+  "id": "banshee",
+  "displayName": "Banshee",
+  "description": "A pet named Banshee, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

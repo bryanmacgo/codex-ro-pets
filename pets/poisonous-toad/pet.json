@@ -1,0 +1,6 @@
+{
+  "id": "poisonous-toad",
+  "displayName": "Poisonous Toad",
+  "description": "A pet named Poisonous Toad, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

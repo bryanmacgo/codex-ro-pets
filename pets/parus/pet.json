@@ -1,0 +1,6 @@
+{
+  "id": "parus",
+  "displayName": "Parus",
+  "description": "A pet named Parus, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

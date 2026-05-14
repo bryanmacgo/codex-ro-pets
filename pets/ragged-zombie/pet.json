@@ -1,0 +1,6 @@
+{
+  "id": "ragged-zombie",
+  "displayName": "Ragged Zombie",
+  "description": "A pet named Ragged Zombie, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

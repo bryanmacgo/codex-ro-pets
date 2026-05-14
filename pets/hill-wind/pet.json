@@ -1,0 +1,6 @@
+{
+  "id": "hill-wind",
+  "displayName": "Hill Wind",
+  "description": "A pet named Hill Wind, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

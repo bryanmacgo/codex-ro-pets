@@ -1,0 +1,6 @@
+{
+  "id": "mime-monkey",
+  "displayName": "Mime Monkey",
+  "description": "A pet named Mime Monkey, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

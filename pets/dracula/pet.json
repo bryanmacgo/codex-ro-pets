@@ -1,0 +1,6 @@
+{
+  "id": "dracula",
+  "displayName": "Dracula",
+  "description": "A pet named Dracula, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

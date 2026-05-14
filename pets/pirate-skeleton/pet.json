@@ -1,0 +1,6 @@
+{
+  "id": "pirate-skeleton",
+  "displayName": "Pirate Skeleton",
+  "description": "A pet named Pirate Skeleton, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "petal",
+  "displayName": "Petal",
+  "description": "A pet named Petal, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

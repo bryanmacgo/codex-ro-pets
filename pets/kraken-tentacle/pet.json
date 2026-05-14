@@ -1,0 +1,6 @@
+{
+  "id": "kraken-tentacle",
+  "displayName": "Kraken Tentacle",
+  "description": "A pet named Kraken Tentacle, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

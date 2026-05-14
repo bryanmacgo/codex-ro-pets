@@ -1,0 +1,6 @@
+{
+  "id": "wooden-golem",
+  "displayName": "Wooden Golem",
+  "description": "A pet named Wooden Golem, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

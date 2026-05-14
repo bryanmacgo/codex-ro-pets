@@ -1,0 +1,6 @@
+{
+  "id": "seaweed",
+  "displayName": "Seaweed",
+  "description": "A pet named Seaweed, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

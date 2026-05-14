@@ -1,0 +1,6 @@
+{
+  "id": "coco",
+  "displayName": "Coco",
+  "description": "A pet named Coco, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "kobold-leader",
+  "displayName": "Kobold Leader",
+  "description": "A pet named Kobold Leader, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

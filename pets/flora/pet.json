@@ -1,0 +1,6 @@
+{
+  "id": "flora",
+  "displayName": "Flora",
+  "description": "A pet named Flora, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

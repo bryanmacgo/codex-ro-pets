@@ -1,0 +1,6 @@
+{
+  "id": "time-keeper",
+  "displayName": "Time Keeper",
+  "description": "A pet named Time Keeper, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

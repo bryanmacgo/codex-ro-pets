@@ -1,0 +1,6 @@
+{
+  "id": "wormtail",
+  "displayName": "Wormtail",
+  "description": "A pet named Wormtail, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

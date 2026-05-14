@@ -1,0 +1,6 @@
+{
+  "id": "rock-step",
+  "displayName": "Rock Step",
+  "description": "A pet named Rock Step, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

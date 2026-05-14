@@ -1,0 +1,6 @@
+{
+  "id": "heater",
+  "displayName": "Heater",
+  "description": "A pet named Heater, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

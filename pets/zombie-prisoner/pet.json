@@ -1,0 +1,6 @@
+{
+  "id": "zombie-prisoner",
+  "displayName": "Zombie Prisoner",
+  "description": "A pet named Zombie Prisoner, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

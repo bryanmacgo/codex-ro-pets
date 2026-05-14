@@ -1,0 +1,6 @@
+{
+  "id": "octopus",
+  "displayName": "Octopus",
+  "description": "A pet named Octopus, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

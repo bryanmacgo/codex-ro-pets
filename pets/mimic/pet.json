@@ -1,0 +1,6 @@
+{
+  "id": "mimic",
+  "displayName": "Mimic",
+  "description": "A pet named Mimic, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

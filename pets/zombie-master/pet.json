@@ -1,0 +1,6 @@
+{
+  "id": "zombie-master",
+  "displayName": "Zombie Master",
+  "description": "A pet named Zombie Master, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

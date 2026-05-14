@@ -1,0 +1,6 @@
+{
+  "id": "skeleton-archer",
+  "displayName": "Skeleton (Archer)",
+  "description": "A pet named Skeleton (Archer), preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

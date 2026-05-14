@@ -1,0 +1,6 @@
+{
+  "id": "kobold-archer",
+  "displayName": "Kobold Archer",
+  "description": "A pet named Kobold Archer, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

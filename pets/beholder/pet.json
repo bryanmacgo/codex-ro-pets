@@ -1,0 +1,6 @@
+{
+  "id": "beholder",
+  "displayName": "Beholder",
+  "description": "A pet named Beholder, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

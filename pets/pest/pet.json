@@ -1,0 +1,6 @@
+{
+  "id": "pest",
+  "displayName": "Pest",
+  "description": "A pet named Pest, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

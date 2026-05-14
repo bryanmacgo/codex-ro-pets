@@ -1,0 +1,6 @@
+{
+  "id": "teddy-bear",
+  "displayName": "Teddy Bear",
+  "description": "A pet named Teddy Bear, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "caterpillar",
+  "displayName": "Caterpillar",
+  "description": "A pet named Caterpillar, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

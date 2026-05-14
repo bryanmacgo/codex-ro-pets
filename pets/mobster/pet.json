@@ -1,0 +1,6 @@
+{
+  "id": "mobster",
+  "displayName": "Mobster",
+  "description": "A pet named Mobster, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "wanderer",
+  "displayName": "Wanderer",
+  "description": "A pet named Wanderer, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

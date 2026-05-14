@@ -1,0 +1,6 @@
+{
+  "id": "scorpion",
+  "displayName": "Scorpion",
+  "description": "A pet named Scorpion, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

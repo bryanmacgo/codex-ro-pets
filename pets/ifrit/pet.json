@@ -1,0 +1,6 @@
+{
+  "id": "ifrit",
+  "displayName": "Ifrit",
+  "description": "A pet named Ifrit, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

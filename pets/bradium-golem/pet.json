@@ -1,0 +1,6 @@
+{
+  "id": "bradium-golem",
+  "displayName": "Bradium Golem",
+  "description": "A pet named Bradium Golem, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

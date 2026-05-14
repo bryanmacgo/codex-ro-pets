@@ -1,0 +1,6 @@
+{
+  "id": "stem-worm",
+  "displayName": "Stem Worm",
+  "description": "A pet named Stem Worm, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

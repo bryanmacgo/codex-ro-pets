@@ -1,0 +1,6 @@
+{
+  "id": "icicle",
+  "displayName": "Icicle",
+  "description": "A pet named Icicle, preserved from Ragnarok Online enemy sprites with the ice-crystal animation frames instead of the shadow component.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "condor",
+  "displayName": "Condor",
+  "description": "A pet named Condor, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

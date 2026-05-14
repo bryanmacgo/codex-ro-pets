@@ -1,0 +1,6 @@
+{
+  "id": "grizzly",
+  "displayName": "Grizzly",
+  "description": "A pet named Grizzly, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

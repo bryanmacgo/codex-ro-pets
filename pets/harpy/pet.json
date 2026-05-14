@@ -1,0 +1,6 @@
+{
+  "id": "harpy",
+  "displayName": "Harpy",
+  "description": "A pet named Harpy, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "orc-zombie",
+  "displayName": "Orc Zombie",
+  "description": "A pet named Orc Zombie, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

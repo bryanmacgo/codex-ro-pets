@@ -1,0 +1,6 @@
+{
+  "id": "poison-spore",
+  "displayName": "Poison Spore",
+  "description": "A pet named Poison Spore, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

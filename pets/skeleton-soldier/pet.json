@@ -1,0 +1,6 @@
+{
+  "id": "skeleton-soldier",
+  "displayName": "Skeleton (Soldier)",
+  "description": "A pet named Skeleton (Soldier), preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}

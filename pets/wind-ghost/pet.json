@@ -1,0 +1,6 @@
+{
+  "id": "wind-ghost",
+  "displayName": "Wind Ghost",
+  "description": "A pet named Wind Ghost, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "spritesheetPath": "spritesheet.webp"
+}
