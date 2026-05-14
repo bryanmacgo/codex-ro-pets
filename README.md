@@ -8,30 +8,7 @@ Each pet preserves the original pixel-art look in an atlas compatible with the C
 
 ## Included Pets
 
-| Pet        | Folder            |
-| ---------- | ----------------- |
-| Alice      | `pets/alice`      |
-| Atroce     | `pets/atroce`     |
-| Baphomet   | `pets/baphomet`   |
-| Bongun     | `pets/bongun`     |
-| Eddga      | `pets/eddga`      |
-| Hatii Baby | `pets/hatii-baby` |
-| High Orc   | `pets/high-orc`   |
-| Kafra 1    | `pets/kafra-1`    |
-| Kafra 2    | `pets/kafra-2`    |
-| Kafra 3    | `pets/kafra-3`    |
-| Kafra 4    | `pets/kafra-4`    |
-| Kafra 5    | `pets/kafra-5`    |
-| Kafra 6    | `pets/kafra-6`    |
-| Myst Case  | `pets/myst-case`  |
-| Munak      | `pets/munak`      |
-| Orc Lord   | `pets/orc-lord`   |
-| Peco Peco  | `pets/peco-peco`  |
-| Poring     | `pets/poring`     |
-| Rocker     | `pets/rocker`     |
-| Sohee      | `pets/sohee`      |
-| Spore      | `pets/spore`      |
-| Valkyrie   | `pets/valkyrie`   |
+You can see the list of all enemy sprites at https://www.spriters-resource.com/pc_computer/ragnarokonline/
 
 ## Installation
 
@@ -63,12 +40,12 @@ pets/<pet>/
 
 The `spritesheet.webp` file uses the standard Codex pet atlas:
 
-| Property      | Value                    |
-| ------------- | ------------------------ |
-| Total size    | `1536x1872`              |
-| Grid          | `8` columns x `9` rows   |
-| Cell          | `192x208`                |
-| Background    | Transparent              |
+| Property   | Value                  |
+| ---------- | ---------------------- |
+| Total size | `1536x1872`            |
+| Grid       | `8` columns x `9` rows |
+| Cell       | `192x208`              |
+| Background | Transparent            |
 
 ## Notes
 
