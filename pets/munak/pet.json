@@ -1,6 +1,6 @@
 {
   "id": "munak",
   "displayName": "Munak",
-  "description": "A pet named Munak, preserved from a Ragnarok Online sprite sheet with skill-bundled emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

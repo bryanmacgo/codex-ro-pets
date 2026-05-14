@@ -1,0 +1,6 @@
+{
+  "id": "mutant-dragonoid",
+  "displayName": "Mutant Dragonoid",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "scr-mt-robot",
+  "displayName": "SCR MT Robot",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

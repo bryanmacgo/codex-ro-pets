@@ -1,0 +1,6 @@
+{
+  "id": "blue-unicorn",
+  "displayName": "Blue Unicorn",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

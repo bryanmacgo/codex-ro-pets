@@ -1,0 +1,6 @@
+{
+  "id": "wootan-fighter",
+  "displayName": "Wootan Fighter",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

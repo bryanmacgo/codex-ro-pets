@@ -1,6 +1,6 @@
 {
   "id": "bloody-butterfly",
   "displayName": "Bloody Butterfly",
-  "description": "A pet named Bloody Butterfly, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

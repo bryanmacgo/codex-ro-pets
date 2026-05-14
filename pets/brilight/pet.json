@@ -1,0 +1,6 @@
+{
+  "id": "brilight",
+  "displayName": "Brilight",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

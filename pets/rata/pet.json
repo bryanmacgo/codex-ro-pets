@@ -1,0 +1,6 @@
+{
+  "id": "rata",
+  "displayName": "Rata",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

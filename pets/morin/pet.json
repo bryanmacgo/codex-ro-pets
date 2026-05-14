@@ -1,0 +1,6 @@
+{
+  "id": "morin",
+  "displayName": "Morin",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

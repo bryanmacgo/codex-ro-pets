@@ -1,0 +1,6 @@
+{
+  "id": "gremlin",
+  "displayName": "Gremlin",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

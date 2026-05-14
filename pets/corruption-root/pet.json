@@ -1,0 +1,6 @@
+{
+  "id": "corruption-root",
+  "displayName": "Corruption Root",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

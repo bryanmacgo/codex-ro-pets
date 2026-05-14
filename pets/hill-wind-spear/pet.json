@@ -1,0 +1,6 @@
+{
+  "id": "hill-wind-spear",
+  "displayName": "Hill Wind (Spear)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

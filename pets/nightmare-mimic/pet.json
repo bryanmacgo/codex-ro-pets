@@ -1,0 +1,6 @@
+{
+  "id": "nightmare-mimic",
+  "displayName": "Nightmare Mimic",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

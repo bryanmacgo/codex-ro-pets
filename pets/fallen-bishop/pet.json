@@ -1,0 +1,6 @@
+{
+  "id": "fallen-bishop",
+  "displayName": "Fallen Bishop",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

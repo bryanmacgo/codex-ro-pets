@@ -1,0 +1,6 @@
+{
+  "id": "luciola-vespa",
+  "displayName": "Luciola Vespa",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "xm-marionette",
+  "displayName": "XM Marionette",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

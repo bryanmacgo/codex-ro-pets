@@ -1,0 +1,6 @@
+{
+  "id": "topalit",
+  "displayName": "Topalit",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

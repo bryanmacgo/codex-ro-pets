@@ -1,0 +1,6 @@
+{
+  "id": "goblin-axe",
+  "displayName": "Goblin (Axe)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

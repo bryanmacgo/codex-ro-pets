@@ -1,0 +1,6 @@
+{
+  "id": "pirate-skeleton",
+  "displayName": "Pirate Skeleton",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

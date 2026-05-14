@@ -1,0 +1,6 @@
+{
+  "id": "arc-elder",
+  "displayName": "Arc Elder",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

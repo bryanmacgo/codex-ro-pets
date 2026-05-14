@@ -1,6 +1,6 @@
 {
   "id": "orc-lord",
   "displayName": "Orc Lord",
-  "description": "A pet named Orc Lord, preserved from source sprites with selected emotion GIF overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

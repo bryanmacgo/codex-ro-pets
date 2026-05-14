@@ -1,0 +1,6 @@
+{
+  "id": "evil-druid",
+  "displayName": "Evil Druid",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

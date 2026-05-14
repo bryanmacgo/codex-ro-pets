@@ -1,0 +1,6 @@
+{
+  "id": "plant-blue",
+  "displayName": "Plant (Blue)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

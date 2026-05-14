@@ -1,0 +1,6 @@
+{
+  "id": "les",
+  "displayName": "Les",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

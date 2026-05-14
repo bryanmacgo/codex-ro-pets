@@ -1,0 +1,6 @@
+{
+  "id": "hardrock-mammoth",
+  "displayName": "Hardrock Mammoth",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

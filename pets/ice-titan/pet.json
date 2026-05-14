@@ -1,0 +1,6 @@
+{
+  "id": "ice-titan",
+  "displayName": "Ice Titan",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

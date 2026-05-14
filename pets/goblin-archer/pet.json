@@ -1,0 +1,6 @@
+{
+  "id": "goblin-archer",
+  "displayName": "Goblin Archer",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "mythlit",
+  "displayName": "Mythlit",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

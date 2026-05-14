@@ -1,0 +1,6 @@
+{
+  "id": "spring-rabbit-grey",
+  "displayName": "Spring Rabbit (Grey)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

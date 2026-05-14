@@ -1,0 +1,6 @@
+{
+  "id": "hunter-fly",
+  "displayName": "Hunter Fly",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

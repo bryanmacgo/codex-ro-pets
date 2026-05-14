@@ -1,0 +1,6 @@
+{
+  "id": "owl-viscount",
+  "displayName": "Owl Viscount",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "lunatic",
+  "displayName": "Lunatic",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "memory-of-thanatos",
+  "displayName": "Memory of Thanatos",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

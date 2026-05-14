@@ -1,0 +1,6 @@
+{
+  "id": "stem-worm",
+  "displayName": "Stem Worm",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

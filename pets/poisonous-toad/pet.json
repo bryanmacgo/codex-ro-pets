@@ -1,0 +1,6 @@
+{
+  "id": "poisonous-toad",
+  "displayName": "Poisonous Toad",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

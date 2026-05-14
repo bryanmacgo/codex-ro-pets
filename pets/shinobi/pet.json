@@ -1,0 +1,6 @@
+{
+  "id": "shinobi",
+  "displayName": "Shinobi",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

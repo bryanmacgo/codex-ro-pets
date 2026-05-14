@@ -1,0 +1,6 @@
+{
+  "id": "mao-guai",
+  "displayName": "Mao Guai",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

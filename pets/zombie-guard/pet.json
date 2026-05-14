@@ -1,0 +1,6 @@
+{
+  "id": "zombie-guard",
+  "displayName": "Zombie Guard",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

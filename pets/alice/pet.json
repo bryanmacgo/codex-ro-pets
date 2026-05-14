@@ -1,6 +1,6 @@
 {
   "id": "alice",
   "displayName": "Alice",
-  "description": "A pet named Alice, preserved from source sprites with selected emotion GIF overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

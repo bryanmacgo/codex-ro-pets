@@ -1,0 +1,6 @@
+{
+  "id": "ancient-tree",
+  "displayName": "Ancient Tree",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "thief-bug-egg",
+  "displayName": "Thief Bug Egg",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

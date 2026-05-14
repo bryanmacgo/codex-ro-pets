@@ -1,0 +1,6 @@
+{
+  "id": "deleter-ground",
+  "displayName": "Deleter (Ground)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

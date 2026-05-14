@@ -1,0 +1,6 @@
+{
+  "id": "heart-hunter",
+  "displayName": "Heart Hunter",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

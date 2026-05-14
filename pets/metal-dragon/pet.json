@@ -1,0 +1,6 @@
+{
+  "id": "metal-dragon",
+  "displayName": "Metal Dragon",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "side-winder",
+  "displayName": "Side Winder",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

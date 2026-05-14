@@ -1,0 +1,6 @@
+{
+  "id": "tower-keeper",
+  "displayName": "Tower Keeper",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

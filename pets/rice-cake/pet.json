@@ -1,0 +1,6 @@
+{
+  "id": "rice-cake",
+  "displayName": "Rice Cake",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

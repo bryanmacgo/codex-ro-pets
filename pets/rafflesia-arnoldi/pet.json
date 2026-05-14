@@ -1,0 +1,6 @@
+{
+  "id": "rafflesia-arnoldi",
+  "displayName": "Rafflesia Arnoldi",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

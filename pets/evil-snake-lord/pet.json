@@ -1,0 +1,6 @@
+{
+  "id": "evil-snake-lord",
+  "displayName": "Evil Snake Lord",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

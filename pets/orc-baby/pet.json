@@ -1,0 +1,6 @@
+{
+  "id": "orc-baby",
+  "displayName": "Orc Baby",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

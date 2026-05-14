@@ -1,0 +1,6 @@
+{
+  "id": "zombie-prisoner",
+  "displayName": "Zombie Prisoner",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

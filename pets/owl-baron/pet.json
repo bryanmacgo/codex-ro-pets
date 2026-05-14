@@ -1,0 +1,6 @@
+{
+  "id": "owl-baron",
+  "displayName": "Owl Baron",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

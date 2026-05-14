@@ -1,0 +1,6 @@
+{
+  "id": "rsx-event",
+  "displayName": "RSX Event",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

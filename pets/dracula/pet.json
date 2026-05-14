@@ -1,0 +1,6 @@
+{
+  "id": "dracula",
+  "displayName": "Dracula",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

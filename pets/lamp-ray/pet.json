@@ -1,0 +1,6 @@
+{
+  "id": "lamp-ray",
+  "displayName": "Lamp Ray",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

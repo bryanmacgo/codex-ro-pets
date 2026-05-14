@@ -1,0 +1,6 @@
+{
+  "id": "wooden-golem",
+  "displayName": "Wooden Golem",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

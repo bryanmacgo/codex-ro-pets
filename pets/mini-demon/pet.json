@@ -1,0 +1,6 @@
+{
+  "id": "mini-demon",
+  "displayName": "Mini Demon",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

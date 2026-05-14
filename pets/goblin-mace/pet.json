@@ -1,0 +1,6 @@
+{
+  "id": "goblin-mace",
+  "displayName": "Goblin (Mace)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

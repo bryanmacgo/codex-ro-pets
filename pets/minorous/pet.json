@@ -1,0 +1,6 @@
+{
+  "id": "minorous",
+  "displayName": "Minorous",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

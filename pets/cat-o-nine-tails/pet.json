@@ -1,0 +1,6 @@
+{
+  "id": "cat-o-nine-tails",
+  "displayName": "Cat O Nine Tails",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

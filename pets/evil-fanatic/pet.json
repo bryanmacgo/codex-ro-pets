@@ -1,0 +1,6 @@
+{
+  "id": "evil-fanatic",
+  "displayName": "Evil Fanatic",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

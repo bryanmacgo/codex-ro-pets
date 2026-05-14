@@ -1,0 +1,6 @@
+{
+  "id": "argos",
+  "displayName": "Argos",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

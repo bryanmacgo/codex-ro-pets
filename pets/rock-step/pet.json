@@ -1,0 +1,6 @@
+{
+  "id": "rock-step",
+  "displayName": "Rock Step",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

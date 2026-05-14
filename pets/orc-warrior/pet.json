@@ -1,0 +1,6 @@
+{
+  "id": "orc-warrior",
+  "displayName": "Orc Warrior",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

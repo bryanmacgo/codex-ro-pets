@@ -1,6 +1,6 @@
 {
   "id": "enchanted-peach-tree",
   "displayName": "Enchanted Peach Tree",
-  "description": "A pet named Enchanted Peach Tree, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

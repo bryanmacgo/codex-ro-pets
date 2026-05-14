@@ -1,0 +1,6 @@
+{
+  "id": "lord-of-death",
+  "displayName": "Lord of Death",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

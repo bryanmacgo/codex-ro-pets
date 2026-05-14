@@ -1,0 +1,6 @@
+{
+  "id": "bomb-poring",
+  "displayName": "Bomb Poring",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

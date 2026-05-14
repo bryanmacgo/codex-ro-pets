@@ -1,0 +1,6 @@
+{
+  "id": "bradium-golem",
+  "displayName": "Bradium Golem",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

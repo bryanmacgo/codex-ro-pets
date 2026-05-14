@@ -1,0 +1,6 @@
+{
+  "id": "galion-alternate",
+  "displayName": "Galion (Alternate)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

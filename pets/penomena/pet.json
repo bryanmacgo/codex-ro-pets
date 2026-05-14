@@ -1,0 +1,6 @@
+{
+  "id": "penomena",
+  "displayName": "Penomena",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "neo-punk",
+  "displayName": "Neo Punk",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

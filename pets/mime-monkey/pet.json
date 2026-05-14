@@ -1,0 +1,6 @@
+{
+  "id": "mime-monkey",
+  "displayName": "Mime Monkey",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

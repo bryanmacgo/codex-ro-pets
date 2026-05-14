@@ -1,0 +1,6 @@
+{
+  "id": "zombie-master",
+  "displayName": "Zombie Master",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

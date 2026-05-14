@@ -1,0 +1,6 @@
+{
+  "id": "dumpling-child",
+  "displayName": "Dumpling Child",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

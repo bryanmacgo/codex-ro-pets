@@ -1,0 +1,6 @@
+{
+  "id": "marduk",
+  "displayName": "Marduk",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

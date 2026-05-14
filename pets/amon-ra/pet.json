@@ -1,0 +1,6 @@
+{
+  "id": "amon-ra",
+  "displayName": "Amon Ra",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

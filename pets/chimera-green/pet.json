@@ -1,0 +1,6 @@
+{
+  "id": "chimera-green",
+  "displayName": "Chimera (Green)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

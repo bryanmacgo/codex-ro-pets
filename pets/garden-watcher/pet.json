@@ -1,0 +1,6 @@
+{
+  "id": "garden-watcher",
+  "displayName": "Garden Watcher",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

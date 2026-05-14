@@ -1,6 +1,6 @@
 {
   "id": "creamy",
   "displayName": "Creamy",
-  "description": "A pet named Creamy, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

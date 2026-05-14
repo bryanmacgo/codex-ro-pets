@@ -1,0 +1,6 @@
+{
+  "id": "pope-bishop",
+  "displayName": "Pope Bishop",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

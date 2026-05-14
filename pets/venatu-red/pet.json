@@ -1,0 +1,6 @@
+{
+  "id": "venatu-red",
+  "displayName": "Venatu (Red)",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

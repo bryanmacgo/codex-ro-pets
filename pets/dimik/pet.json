@@ -1,0 +1,6 @@
+{
+  "id": "dimik",
+  "displayName": "Dimik",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

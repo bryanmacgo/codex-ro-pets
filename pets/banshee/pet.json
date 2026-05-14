@@ -1,0 +1,6 @@
+{
+  "id": "banshee",
+  "displayName": "Banshee",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

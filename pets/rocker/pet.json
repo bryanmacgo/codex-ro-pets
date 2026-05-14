@@ -1,6 +1,6 @@
 {
   "id": "rocker",
   "displayName": "Rocker",
-  "description": "A pet named Rocker, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

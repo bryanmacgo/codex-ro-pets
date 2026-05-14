@@ -1,0 +1,6 @@
+{
+  "id": "drake",
+  "displayName": "Drake",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "sys-msg-t-w-o",
+  "displayName": "sys_msg / t_w_o",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

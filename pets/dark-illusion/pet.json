@@ -1,0 +1,6 @@
+{
+  "id": "dark-illusion",
+  "displayName": "Dark Illusion",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

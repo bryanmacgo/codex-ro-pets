@@ -1,0 +1,6 @@
+{
+  "id": "fire-sandman",
+  "displayName": "Fire Sandman",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "giant-octopus",
+  "displayName": "Giant Octopus",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}
