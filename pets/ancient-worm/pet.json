@@ -1,6 +1,6 @@
 {
   "id": "ancient-worm",
   "displayName": "Ancient Worm",
-  "description": "A pet named Ancient Worm, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

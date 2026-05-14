@@ -1,6 +1,6 @@
 {
   "id": "fei-kanabian",
   "displayName": "Fei Kanabian",
-  "description": "A pet named Fei Kanabian, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

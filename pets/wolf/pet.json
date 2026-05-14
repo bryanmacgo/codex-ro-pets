@@ -1,6 +1,6 @@
 {
   "id": "wolf",
   "displayName": "Wolf",
-  "description": "A pet named Wolf, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

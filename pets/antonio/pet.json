@@ -1,6 +1,6 @@
 {
   "id": "antonio",
   "displayName": "Antonio",
-  "description": "A pet named Antonio, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

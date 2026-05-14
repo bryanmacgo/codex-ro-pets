@@ -1,6 +1,6 @@
 {
   "id": "kafra-1",
   "displayName": "Kafra 1",
-  "description": "A pet named Kafra 1, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

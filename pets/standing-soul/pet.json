@@ -1,6 +1,6 @@
 {
   "id": "standing-soul",
   "displayName": "Standing Soul",
-  "description": "A pet named Standing Soul, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

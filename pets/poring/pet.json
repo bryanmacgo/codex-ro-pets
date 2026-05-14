@@ -1,6 +1,6 @@
 {
   "id": "poring",
   "displayName": "Poring Vanila",
-  "description": "A vanilla Poring pet preserved from the source GIF with selected emotion GIF overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

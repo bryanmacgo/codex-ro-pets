@@ -1,6 +1,6 @@
 {
   "id": "eddga",
   "displayName": "Eddga",
-  "description": "A pet named Eddga, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

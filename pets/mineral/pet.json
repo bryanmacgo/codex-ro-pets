@@ -1,6 +1,6 @@
 {
   "id": "mineral",
   "displayName": "Mineral",
-  "description": "A pet named Mineral, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

@@ -1,6 +1,6 @@
 {
   "id": "tower-keeper",
   "displayName": "Tower Keeper",
-  "description": "A pet named Tower Keeper, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

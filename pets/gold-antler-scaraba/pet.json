@@ -1,6 +1,6 @@
 {
   "id": "gold-antler-scaraba",
   "displayName": "Gold Antler Scaraba",
-  "description": "A pet named Gold Antler Scaraba, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

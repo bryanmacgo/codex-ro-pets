@@ -1,6 +1,6 @@
 {
   "id": "kick-and-kick",
   "displayName": "Kick and Kick",
-  "description": "A pet named Kick and Kick, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

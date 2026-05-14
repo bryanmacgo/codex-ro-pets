@@ -1,6 +1,6 @@
 {
   "id": "dark-coelacanth",
   "displayName": "Dark Coelacanth",
-  "description": "A pet named Dark Coelacanth, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

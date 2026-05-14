@@ -1,6 +1,6 @@
 {
   "id": "jakk-with-santa-hat",
   "displayName": "Jakk (With Santa Hat)",
-  "description": "A pet named Jakk (With Santa Hat), preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

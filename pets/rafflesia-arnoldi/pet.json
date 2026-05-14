@@ -1,6 +1,6 @@
 {
   "id": "rafflesia-arnoldi",
   "displayName": "Rafflesia Arnoldi",
-  "description": "A pet named Rafflesia Arnoldi, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

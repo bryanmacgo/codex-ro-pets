@@ -1,6 +1,6 @@
 {
   "id": "parasite",
   "displayName": "Parasite",
-  "description": "A pet named Parasite, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

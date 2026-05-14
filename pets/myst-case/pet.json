@@ -1,6 +1,6 @@
 {
   "id": "myst-case",
   "displayName": "Myst Case",
-  "description": "A pet named Myst Case, rebuilt larger from Ragnarok Online sprites with smaller overlaid emotions.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

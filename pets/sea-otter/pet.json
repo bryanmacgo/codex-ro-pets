@@ -1,6 +1,6 @@
 {
   "id": "sea-otter",
   "displayName": "Sea Otter",
-  "description": "A pet named Sea Otter, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

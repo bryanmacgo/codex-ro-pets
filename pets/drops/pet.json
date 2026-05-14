@@ -1,6 +1,6 @@
 {
   "id": "drops",
   "displayName": "Drops",
-  "description": "A pet named Drops, preserved from Ragnarok Online source sprites with emotion overlays.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

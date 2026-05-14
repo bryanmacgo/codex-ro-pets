@@ -1,6 +1,6 @@
 {
   "id": "scr-mt-robot",
   "displayName": "SCR MT Robot",
-  "description": "A pet named SCR MT Robot, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

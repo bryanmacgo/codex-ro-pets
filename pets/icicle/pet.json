@@ -1,6 +1,6 @@
 {
   "id": "icicle",
   "displayName": "Icicle",
-  "description": "A pet named Icicle, preserved from Ragnarok Online enemy sprites with the ice-crystal animation frames instead of the shadow component.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }

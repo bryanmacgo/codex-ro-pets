@@ -1,6 +1,6 @@
 {
   "id": "rata",
   "displayName": "Rata",
-  "description": "A pet named Rata, preserved from Ragnarok Online enemy sprites with back-facing rows avoided.",
+  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
   "spritesheetPath": "spritesheet.webp"
 }
