@@ -1,6 +1,6 @@
 {
   "id": "sohee",
   "displayName": "Sohee",
-  "description": "Animated pixel-art pet based on Ragnarok Online monster sprites.",
+  "description": "Sohee with Exc.gif on jumping hover and Lov.gif on running.",
   "spritesheetPath": "spritesheet.webp"
 }
